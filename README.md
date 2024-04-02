@@ -27,8 +27,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-
-![Screenshot 2024-03-16 111919](https://github.com/Narasimhan05/Circulate-the-values-of-N-variables/assets/132819871/639d135d-3af5-4768-a04d-807e8ae0d94a)
+![alt text](<../Screenshot 2024-04-02 205647.png>)
 
 ## Result:
 Thus the program to circulate the n variables using function is written and verified using python programming.
